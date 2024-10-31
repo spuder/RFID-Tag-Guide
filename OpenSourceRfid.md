@@ -47,7 +47,11 @@ RFID support can theoretically be added to any printer using off-the-shelf RFID 
 
 <img src="images/RC522-Reader.jpg" width=200>
 
-Did you make a design to add RFID to your printer? Let us know so we can link to it here!  Designs can be 3D models, or firmware.
+## Hardware Implementations
+
+There are various open source hardware implementations designed to support the OpenSourceRFID Standard. If you know of others, let us know so we can link to it here!  Designs can be 3D models, or firmware. 
+
+- [OpenSpool](https://github.com/spuder/OpenSpool)   
 
 # RFID Hardware
 MiFare 13.56MHZ Classic 1K tags
